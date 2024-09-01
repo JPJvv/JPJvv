@@ -44,7 +44,6 @@ The Virtual CV is hosted on GitHub Pages and can be accessed via the following l
 For any inquiries or further information, please contact me at:
 
 - **Email**: [pjmjvvuuren@protonmail.com](mailto:pjmjvvuuren@protonmail.com)
-- **Phone**: +27 72 341 3245
 - **LinkedIn**: [Petrus Jansen van Vuuren](https://www.linkedin.com/in/petrus-jansen-van-vuuren)
 
 
